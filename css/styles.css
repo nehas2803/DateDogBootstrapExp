@@ -1,0 +1,102 @@
+body{
+  font-family: 'Patrick Hand', cursive;
+}
+#title{
+  background: #ff4c68;
+  color: #fff;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+
+h1{
+  font-family: 'Patrick Hand', cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
+h2{
+  font-size: 3em;
+  line-height: 1.5;
+}
+h3{
+  font-size: 3rem;
+}
+p{
+  color: grey;
+}
+
+/* Navbar design */
+.navbar{
+  padding-bottom:0 0 4.5rem;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+font-family: "Ubuntu";
+font-weight: bold;
+}
+.nav-item{
+  padding:0 18px;
+}
+.download-btn{
+  margin-right: 0.5em;
+}
+.title-img{
+   transform: rotate(20deg);
+  width: 40%;
+  position: absolute;
+
+
+}
+#features{
+  position: relative;
+  margin-left:40px;
+  height:200px;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+
+#testimonials{
+  padding:7% 15%;
+  text-align: center;
+  width: auto;
+height: 500px;
+background: #ef8172;
+color: #fff;
+}
+#press{
+  padding: 7% 15%;
+  text-align: center;
+  background: #ef8172;
+  color: #fff;
+
+
+}
+.press-img{
+
+  width: 15%;
+  margin:20px 20px 50px;
+}
+.dog-img{
+  width:200px;
+  height:200px;
+  border-radius: 100%;
+}
+#pricing{
+  text-align:center;
+
+}
+.card-deck{
+  margin: auto;
+}
+#cta{
+  height: 200px;
+  background: #ff4c68;
+  color: #fff;
+  text-align: center;
+
+}
+. cta-btn{
+  width: 50px;
+}
